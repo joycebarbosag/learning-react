@@ -9,7 +9,7 @@ function MeuComponente(){
     </div>
   );
 }
-
+ //teste
 //a classe app funciona como a main do java
 function App() {
   return (
